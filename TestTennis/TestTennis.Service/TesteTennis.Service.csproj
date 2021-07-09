@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteTennis.CrossCutting\TesteTennis.CrossCutting.csproj" />
+    <ProjectReference Include="..\TesteTennis.Data\TesteTennis.Data.csproj" />
+  </ItemGroup>
+
+</Project>
